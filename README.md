@@ -1,6 +1,6 @@
 # 678-Final-Project
-
-Our project focuses on mitigating Gender Bias in Dataset across all alanguages. We have made use of Masking method and Counterfactual data augmentation.
+By Atharva Jadhav (G01336920), Prajwal Desai(G01326781) and Suzzana Rafi(G01269347).
+Our project focuses on mitigating Gender Bias in Dataset across all languages. We have made use of Masking method and Counterfactual data augmentation.
 
 We implement the Masking of Gender-associated words and pronouns and nouns to train our MLMs to perform unbiased learning. In simple terms, we try different combinations of masking Gender associated words like Mother, Father, Dad, Son, etc., and Personal and Professional Pronouns like he, his, her, she, himself, herself, etc., and also Singular Nouns and Plural Nouns like doctor/doctors etc.   
 
