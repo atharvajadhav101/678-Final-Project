@@ -10,7 +10,7 @@ To complement this method and to cover another debiasing method, we manually per
 requirements.txt file give all the necessary library and version to be installed before execution of our project.
 
 # Recreating the Baseline
-To recreate the [Gender Bias in Masked Language Models for Multiple Languages (Kaneko et al., NAACL 2022)]([url](https://aclanthology.org/2022.naacl-main.197/)), you can try and execute the Baseline_All_Lang.py for all languages to run Parallel_multilingual_data files and Baseline_MT.py for Author_translated_data files. 
+To recreate the [Gender Bias in Masked Language Models for Multiple Languages (Kaneko et al., NAACL 2022)](https://aclanthology.org/2022.naacl-main.197/), you can try and execute the Baseline_All_Lang.py for all languages to run Parallel_multilingual_data files and Baseline_MT.py for Author_translated_data files. 
 
 # Our Implementation
 
